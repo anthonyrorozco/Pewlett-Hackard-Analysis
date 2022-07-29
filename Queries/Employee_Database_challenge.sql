@@ -1,4 +1,3 @@
---CHALLENGE
 
 --TABLE 1 - Retirement Titles table (January 1, 1952 and December 31, 1955).
 
